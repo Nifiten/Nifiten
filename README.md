@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Build%20Fast.%20Scale%20Hard.&fontAlign=50&fontAlignY=40&color=0:050505,100:222222&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nicolas%20Laurindo&fontAlign=50&fontAlignY=40&color=0:0B0B0B,100:1a1a1a&fontColor=FFFFFF" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Performance+Focused;Systems+Builder;Top+1%25+Mindset" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Systems+Builder;Performance+Focused" />
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 
 ## Positioning
 
-Developer focused on performance engineering, scalable systems and execution velocity.
+Developer focused on performance, scalability and real-world systems.
 
 ---
 
@@ -28,23 +28,21 @@ Developer focused on performance engineering, scalable systems and execution vel
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-<b>Financial Systems</b><br/>
-Transactions, validation, reporting
-
-</td>
-<td width="33%" align="center">
-
-<b>Inventory Systems</b><br/>
-Stock control, logistics
-
-</td>
-<td width="33%" align="center">
-
+<td align="center" width="25%">
 <b>Business Systems</b><br/>
-Factories, operations
-
+Management & operations
+</td>
+<td align="center" width="25%">
+<b>Ecommerce Systems</b><br/>
+Sales, payments, flows
+</td>
+<td align="center" width="25%">
+<b>Factory Systems</b><br/>
+Production & logistics
+</td>
+<td align="center" width="25%">
+<b>Automation</b><br/>
+Processes & efficiency
 </td>
 </tr>
 </table>
@@ -67,9 +65,9 @@ Factories, operations
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=ffffff&bg_color=050505" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=ffffff&icon_color=FACC15&text_color=cccccc&bg_color=0B0B0B" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FFFFFF&text_color=ffffff&bg_color=050505" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0B0B0B" />
 
 </div>
 
@@ -79,7 +77,7 @@ Factories, operations
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&ring=FACC15&fire=FFB800&currStreakLabel=FACC15&background=0B0B0B" />
 
 </div>
 
@@ -89,9 +87,9 @@ Factories, operations
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_1&theme=dark&title_color=FFFFFF&text_color=ffffff&bg_color=050505" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_1&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0B0B0B" />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_2&theme=dark&title_color=FFFFFF&text_color=ffffff&bg_color=050505" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_2&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0B0B0B" />
 
 </div>
 
@@ -102,19 +100,19 @@ Factories, operations
 <div align="center">
 
 <a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://cdn.simpleicons.org/instagram/ffffff" width="30" />
+<img src="https://cdn.simpleicons.org/instagram" width="28" />
 </a>
 
 <a href="https://instagram.com/SEU_INSTAGRAM_EMPRESA">
-<img src="https://cdn.simpleicons.org/instagram/ffffff" width="30" />
+<img src="https://cdn.simpleicons.org/instagram" width="28" />
 </a>
 
 <a href="https://SEU_SITE_EMPRESA.com">
-<img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="30" />
+<img src="https://cdn.simpleicons.org/googlechrome" width="28" />
 </a>
 
 <a href="https://SEU_PORTFOLIO.com">
-<img src="https://cdn.simpleicons.org/vercel/ffffff" width="30" />
+<img src="https://cdn.simpleicons.org/vercel" width="28" />
 </a>
 
 </div>
@@ -127,31 +125,57 @@ Factories, operations
 
 <table>
 <tr>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="80" /><br/>
-Cliente 1
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="80" /><br/>
-Cliente 2
-</td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="80" /><br/>
-Cliente 3
+<td>
+<b>Cliente 1</b><br/>
+Sistema financeiro e gestão
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="80" /><br/>
-Cliente 4
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="80" /><br/>
-Cliente 5
+<td>
+<b>Cliente 2</b><br/>
+Controle de estoque
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="80" /><br/>
-Cliente 6
+</tr>
+<tr>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
+</td>
+<td>
+<b>Cliente 3</b><br/>
+Sistema empresarial
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
+</td>
+<td>
+<b>Cliente 4</b><br/>
+Automação de processos
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
+</td>
+<td>
+<b>Cliente 5</b><br/>
+Plataforma ecommerce
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
+</td>
+<td>
+<b>Cliente 6</b><br/>
+Sistema logístico
 </td>
 </tr>
 </table>
@@ -160,35 +184,14 @@ Cliente 6
 
 ---
 
-<div align="center">
-
-Execution > Ideas
-
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/Clients-Business-000000?style=flat-square&logo=briefcase&logoColor=FACC15" /> Clients
+## Profile Metrics
 
 <div align="center">
 
-```txt
-Industrial sector
-Financial systems
-Business platforms
-Inventory & logistics
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=FACC15&style=flat" />
 
-Confidential (NDA)
-```
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=flat&color=FACC15" />
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Execution > Ideas
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=FACC15&style=flat-square" />
+<img src="https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=FACC15" />
 
 </div>
