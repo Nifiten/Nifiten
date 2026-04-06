@@ -1,71 +1,73 @@
-# ⚡ Nifiten — High Performance Engineer
+# ⚡ Nifiten
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Build%20Fast.%20Scale%20Hard.&fontAlign=50&fontAlignY=40&color=0:0B0B0B,100:FACC15&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=High%20Performance%20Systems&fontAlign=50&fontAlignY=38&color=0:050505,100:FACC15&fontColor=FFFFFF" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Performance-FACC15?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/Level-Top%201%25-111111?style=for-the-badge&logo=target&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Execution-High-111111?style=for-the-badge&logo=rocket&logoColor=FACC15" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=FACC15&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Performance+Focused;Systems+Builder;Top+1%25+Mindset" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Performance-First-FACC15?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Systems-Builder-000000?style=for-the-badge&logo=code&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Execution-Driven-000000?style=for-the-badge&logo=rocket&logoColor=FACC15" />
 
 </div>
 
 ---
 
-## 🧠 Positioning
-
-CEO @ Duck Debug  
-
-Developer focused on **performance engineering, scalable systems and execution velocity**.
-
-```txt
-→ Financial systems (transactions, validation, reporting)
-→ Inventory & logistics systems (stock control, flows)
-→ Business management platforms
-→ Systems for factories and real-world operations
-```
-
----
-
-## 🚀 Featured Work
+## <img src="https://img.shields.io/badge/Role-Positioning-000000?style=flat-square&logo=readme&logoColor=FACC15" /> Positioning
 
 <div align="center">
 
-<a href="#">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_SAMPLE_1&theme=dark&title_color=FACC15&text_color=ffffff&bg_color=0d1117" />
-</a>
+```txt
+CEO @ Duck Debug
 
-<a href="#">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_SAMPLE_2&theme=dark&title_color=FACC15&text_color=ffffff&bg_color=0d1117" />
-</a>
+I build high-performance systems for real businesses.
+Focused on financial systems, inventory, and operations.
+```
 
 </div>
 
-### 🧩 Real-World Experience
+---
 
-```txt
-→ Built financial systems (data integrity, transactions)
-→ Developed inventory & stock platforms
-→ Systems used in factories and operations
-→ Focus on performance, reliability and delivery
+## <img src="https://img.shields.io/badge/Build-Systems-000000?style=flat-square&logo=appveyor&logoColor=FACC15" /> What I Actually Build
 
-*Projects under NDA*
-```
+<div align="center">
 
-### 🏗️ Public Showcase (in progress)
+<table>
+<tr>
+<td width="33%">
 
-```txt
-→ High-performance backend (Java)
-→ Scalable full-stack SaaS
-→ Automation tools
-→ Performance-focused systems
-```
+### 💰 Financial Systems
+
+Transactions, validation, reporting, data integrity
+
+</td>
+<td width="33%">
+
+### 📦 Inventory Systems
+
+Stock control, logistics, real-time flows
+
+</td>
+<td width="33%">
+
+### 🏭 Business Systems
+
+Factories, operations, management platforms
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## <img src="https://img.shields.io/badge/Stack-Tech-000000?style=flat-square&logo=stackshare&logoColor=FACC15" /> Tech Stack
 
 <div align="center">
 
@@ -73,49 +75,28 @@ Developer focused on **performance engineering, scalable systems and execution v
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Backend-Java%20%7C%20PHP-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend-JS%20%7C%20HTML%20%7C%20CSS%20%7C%20Tailwind-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQL-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Git-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Java%20%7C%20PHP-FACC15?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Frontend-JS%20%7C%20UI-FACC15?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/Database-MySQL-FACC15?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/DevOps-Docker-FACC15?style=flat-square&labelColor=000000" />
 
 </div>
 
 ---
 
-## 🧠 Core Competencies
+## <img src="https://img.shields.io/badge/Metrics-Performance-000000?style=flat-square&logo=datadog&logoColor=FACC15" /> Performance
 
 <div align="center">
 
-| Area      | Focus                          |
-|----------|-------------------------------|
-| Backend  | APIs, performance, scalability |
-| Frontend | UI, responsiveness, UX        |
-| Database | Modeling, optimization        |
-| DevOps   | Containers, deployment        |
-| Product  | Execution, delivery           |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FACC15&icon_color=FACC15&text_color=ffffff&bg_color=050505" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FACC15&text_color=ffffff&bg_color=050505" />
 
 </div>
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=FACC15&labelColor=111111" />
-<img src="https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=FACC15&labelColor=111111" />
-
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FACC15&icon_color=FACC15&text_color=ffffff&bg_color=0d1117" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FACC15&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🔥 Consistency
+## <img src="https://img.shields.io/badge/Activity-Consistency-000000?style=flat-square&logo=githubactions&logoColor=FACC15" /> Consistency
 
 <div align="center">
 
@@ -125,57 +106,62 @@ Developer focused on **performance engineering, scalable systems and execution v
 
 ---
 
-## 🤝 Ecosystem
+## <img src="https://img.shields.io/badge/Projects-Showcase-000000?style=flat-square&logo=vercel&logoColor=FACC15" /> Featured Projects (Building)
+
+<div align="center">
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_1&theme=dark&title_color=FACC15&text_color=ffffff&bg_color=050505" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_2&theme=dark&title_color=FACC15&text_color=ffffff&bg_color=050505" />
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/Links-Ecosystem-000000?style=flat-square&logo=linktree&logoColor=FACC15" /> Ecosystem
 
 <div align="center">
 
 <a href="https://instagram.com/SEU_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Personal%20Instagram-Access-111111?style=for-the-badge&logo=instagram&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Personal-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FACC15" />
 </a>
 
 <a href="https://instagram.com/SEU_INSTAGRAM_EMPRESA">
-  <img src="https://img.shields.io/badge/Company%20Instagram-Access-111111?style=for-the-badge&logo=instagram&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Company-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FACC15" />
 </a>
 
 <a href="https://SEU_SITE_EMPRESA.com">
-  <img src="https://img.shields.io/badge/Company%20Website-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Company-Site-000000?style=for-the-badge&logo=google-chrome&logoColor=FACC15" />
 </a>
 
 <a href="https://SEU_PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-View-111111?style=for-the-badge&logo=vercel&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=FACC15" />
 </a>
 
 </div>
 
 ---
 
-## 🏢 Clients
+## <img src="https://img.shields.io/badge/Clients-Business-000000?style=flat-square&logo=briefcase&logoColor=FACC15" /> Clients
+
+<div align="center">
 
 ```txt
-→ Industrial sector (factories & production)
-→ Business management systems
-→ Financial systems
-→ Inventory & logistics platforms
+Industrial sector
+Financial systems
+Business platforms
+Inventory & logistics
 
-*Client details under NDA*
+Confidential (NDA)
 ```
 
----
-
-## ⚡ Philosophy
-
-```txt
-→ Performance > complexity
-→ Execution > ideas
-→ Systems > scripts
-→ Consistency > intensity
-```
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Execution beats intention
+### ⚡ Execution > Ideas
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=FACC15&style=flat-square" />
 
