@@ -149,24 +149,24 @@ Portfolio
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" height="120">
 <table width="100%">
 <tr>
-<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
-<td>
+<td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td valign="top">
 <b>Cliente 1</b><br/>
-Financial system with reporting and transactions
+Financial system with reporting and transactions<br/><br/>
 </td>
 </tr>
 </table>
 </td>
-<td width="50%">
+<td width="50%" height="120">
 <table width="100%">
 <tr>
-<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
-<td>
+<td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td valign="top">
 <b>Cliente 2</b><br/>
-Inventory control and logistics platform
+Inventory control and logistics platform<br/><br/>
 </td>
 </tr>
 </table>
@@ -174,24 +174,24 @@ Inventory control and logistics platform
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" height="120">
 <table width="100%">
 <tr>
-<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
-<td>
+<td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td valign="top">
 <b>Cliente 3</b><br/>
-Business management system
+Business management system<br/><br/>
 </td>
 </tr>
 </table>
 </td>
-<td width="50%">
+<td width="50%" height="120">
 <table width="100%">
 <tr>
-<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
-<td>
+<td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td valign="top">
 <b>Cliente 4</b><br/>
-Automation and workflow optimization
+Automation and workflow optimization<br/><br/>
 </td>
 </tr>
 </table>
@@ -199,24 +199,24 @@ Automation and workflow optimization
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" height="120">
 <table width="100%">
 <tr>
-<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
-<td>
+<td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td valign="top">
 <b>Cliente 5</b><br/>
-Ecommerce platform and payment flows
+Ecommerce platform and payment flows<br/><br/>
 </td>
 </tr>
 </table>
 </td>
-<td width="50%">
+<td width="50%" height="120">
 <table width="100%">
 <tr>
-<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
-<td>
+<td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td valign="top">
 <b>Cliente 6</b><br/>
-Logistics and tracking system
+Logistics and tracking system<br/><br/>
 </td>
 </tr>
 </table>
