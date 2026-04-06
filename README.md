@@ -149,10 +149,10 @@ Portfolio
 
 <table>
 <tr>
-<td>
-<table>
+<td width="50%">
+<table width="100%">
 <tr>
-<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td>
 <b>Cliente 1</b><br/>
 Financial system with reporting and transactions
@@ -160,10 +160,10 @@ Financial system with reporting and transactions
 </tr>
 </table>
 </td>
-<td>
-<table>
+<td width="50%">
+<table width="100%">
 <tr>
-<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td>
 <b>Cliente 2</b><br/>
 Inventory control and logistics platform
@@ -174,10 +174,10 @@ Inventory control and logistics platform
 </tr>
 
 <tr>
-<td>
-<table>
+<td width="50%">
+<table width="100%">
 <tr>
-<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td>
 <b>Cliente 3</b><br/>
 Business management system
@@ -185,10 +185,10 @@ Business management system
 </tr>
 </table>
 </td>
-<td>
-<table>
+<td width="50%">
+<table width="100%">
 <tr>
-<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td>
 <b>Cliente 4</b><br/>
 Automation and workflow optimization
@@ -199,10 +199,10 @@ Automation and workflow optimization
 </tr>
 
 <tr>
-<td>
-<table>
+<td width="50%">
+<table width="100%">
 <tr>
-<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td>
 <b>Cliente 5</b><br/>
 Ecommerce platform and payment flows
@@ -210,10 +210,10 @@ Ecommerce platform and payment flows
 </tr>
 </table>
 </td>
-<td>
-<table>
+<td width="50%">
+<table width="100%">
 <tr>
-<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td width="70"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td>
 <b>Cliente 6</b><br/>
 Logistics and tracking system
