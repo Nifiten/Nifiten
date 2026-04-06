@@ -1,54 +1,59 @@
-# <span style="color:#FACC15">Duck</span> Debug
+# Nicolas Laurindo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Systems+Builder;Performance+Focused" />
-
-<br/><br/>
-
-<b>Nicolas Laurindo</b>
+<b>Full Stack Engineer</b><br/> <sub>CEO & Co-Founder @ <span style="color:#FACC15">Duck</span> Debug</sub><br/> <sub>Systems Builder • Performance Focused</sub>
 
 </div>
 
 ---
 
-## Positioning
+## 🖥️ System Overview
 
-Developer focused on performance, scalability and real-world systems.
+<div align="center">
+
+| Metric | Value                          |
+| ------ | ------------------------------ |
+| Focus  | High Performance Systems       |
+| Domain | Business / Finance / Logistics |
+| Role   | CEO @ Duck Debug               |
+| Status | Building & Scaling             |
+
+</div>
 
 ---
 
-## What I Build
+## 🧩 Systems Map
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-<b>Business Systems</b><br/>
-Management & operations
+<td align="center">
+<b>💰 Financial</b><br/>
+Transactions<br/>Reports<br/>Integrity
 </td>
-<td align="center" width="33%">
-<b>Ecommerce Systems</b><br/>
-Sales, payments, flows
+<td align="center">
+<b>🛒 Ecommerce</b><br/>
+Payments<br/>Orders<br/>Flows
 </td>
-<td align="center" width="33%">
-<b>Factory Systems</b><br/>
-Production & logistics
+<td align="center">
+<b>🏭 Factory</b><br/>
+Production<br/>Logistics<br/>Control
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<b>Automation</b><br/>
-Processes & efficiency
+<td align="center">
+<b>📦 Inventory</b><br/>
+Stock<br/>Movement<br/>Tracking
 </td>
-<td align="center" width="33%">
-<b>Financial Systems</b><br/>
-Transactions & reporting
+<td align="center">
+<b>⚙️ Automation</b><br/>
+Processes<br/>Efficiency<br/>Integration
 </td>
-<td align="center" width="33%">
-<b>Custom Platforms</b><br/>
-Tailored solutions
+<td align="center">
+<b>🧠 Custom</b><br/>
+Tailored<br/>Systems<br/>Solutions
 </td>
 </tr>
 </table>
@@ -57,7 +62,7 @@ Tailored solutions
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -67,41 +72,41 @@ Tailored solutions
 
 ---
 
-## Performance
+## 📊 System Metrics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=ffffff&icon_color=FACC15&text_color=cccccc&bg_color=0B0B0B" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=FACC15&icon_color=FACC15&text_color=cccccc&bg_color=0B0B0B" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0B0B0B" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=FACC15&text_color=cccccc&bg_color=0B0B0B" />
 
 </div>
 
 ---
 
-## Consistency
+## 🔥 Activity Monitor
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&ring=FACC15&fire=FFB800&currStreakLabel=FACC15&background=0B0B0B" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&background=0B0B0B" />
 
 </div>
 
 ---
 
-## Projects (Building)
+## 🧪 Active Projects
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_1&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0B0B0B" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_1&theme=dark&title_color=FACC15&text_color=cccccc&bg_color=0B0B0B" />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_2&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0B0B0B" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJECT_2&theme=dark&title_color=FACC15&text_color=cccccc&bg_color=0B0B0B" />
 
 </div>
 
 ---
 
-## Ecosystem
+## 🌐 Network
 
 <div align="center">
 
@@ -109,25 +114,25 @@ Tailored solutions
 <tr>
 <td align="center">
 <a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://cdn.simpleicons.org/instagram" width="30" /><br/>
+<img src="https://cdn.simpleicons.org/instagram" width="28" /><br/>
 Personal
 </a>
 </td>
 <td align="center">
 <a href="https://instagram.com/SEU_INSTAGRAM_EMPRESA">
-<img src="https://cdn.simpleicons.org/instagram" width="30" /><br/>
+<img src="https://cdn.simpleicons.org/instagram" width="28" /><br/>
 Company
 </a>
 </td>
 <td align="center">
 <a href="https://SEU_SITE_EMPRESA.com">
-<img src="https://cdn.simpleicons.org/googlechrome" width="30" /><br/>
+<img src="https://cdn.simpleicons.org/googlechrome" width="28" /><br/>
 Website
 </a>
 </td>
 <td align="center">
 <a href="https://SEU_PORTFOLIO.com">
-<img src="https://cdn.simpleicons.org/vercel" width="30" /><br/>
+<img src="https://cdn.simpleicons.org/vercel" width="28" /><br/>
 Portfolio
 </a>
 </td>
@@ -138,7 +143,7 @@ Portfolio
 
 ---
 
-## Clients
+## 🏢 Clients
 
 <div align="center">
 
@@ -147,24 +152,24 @@ Portfolio
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 1</b><br/>
-Sistema financeiro
+Financial System
 </td>
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 2</b><br/>
-Controle de estoque
+Inventory System
 </td>
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 3</b><br/>
-Sistema empresarial
+Business Platform
 </td>
 </tr>
 <tr>
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 4</b><br/>
-Automação
+Automation
 </td>
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
@@ -174,7 +179,7 @@ Ecommerce
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 6</b><br/>
-Logística
+Logistics
 </td>
 </tr>
 </table>
@@ -183,14 +188,12 @@ Logística
 
 ---
 
-## Profile Metrics
+## 👁️ Profile Metrics
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=👁️%20Views&color=FACC15&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=FACC15&style=flat" />
 <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=flat&color=FACC15" />
-
 <img src="https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=FACC15" />
 
 </div>
