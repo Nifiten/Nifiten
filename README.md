@@ -1,16 +1,12 @@
-# Nicolas Laurindo
+# <span style="color:#FACC15">Duck</span> Debug
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nicolas%20Laurindo&fontAlign=50&fontAlignY=40&color=0:0B0B0B,100:1a1a1a&fontColor=FFFFFF" />
-
-<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Systems+Builder;Performance+Focused" />
 
 <br/><br/>
 
-<b>CEO @ <span style="color:#FACC15">Duck Debug</span></b>
+<b>Nicolas Laurindo</b>
 
 </div>
 
@@ -28,21 +24,31 @@ Developer focused on performance, scalability and real-world systems.
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <b>Business Systems</b><br/>
 Management & operations
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <b>Ecommerce Systems</b><br/>
 Sales, payments, flows
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <b>Factory Systems</b><br/>
 Production & logistics
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="33%">
 <b>Automation</b><br/>
 Processes & efficiency
+</td>
+<td align="center" width="33%">
+<b>Financial Systems</b><br/>
+Transactions & reporting
+</td>
+<td align="center" width="33%">
+<b>Custom Platforms</b><br/>
+Tailored solutions
 </td>
 </tr>
 </table>
@@ -99,21 +105,34 @@ Processes & efficiency
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
 <a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://cdn.simpleicons.org/instagram" width="28" />
+<img src="https://cdn.simpleicons.org/instagram" width="30" /><br/>
+Personal
 </a>
-
+</td>
+<td align="center">
 <a href="https://instagram.com/SEU_INSTAGRAM_EMPRESA">
-<img src="https://cdn.simpleicons.org/instagram" width="28" />
+<img src="https://cdn.simpleicons.org/instagram" width="30" /><br/>
+Company
 </a>
-
+</td>
+<td align="center">
 <a href="https://SEU_SITE_EMPRESA.com">
-<img src="https://cdn.simpleicons.org/googlechrome" width="28" />
+<img src="https://cdn.simpleicons.org/googlechrome" width="30" /><br/>
+Website
 </a>
-
+</td>
+<td align="center">
 <a href="https://SEU_PORTFOLIO.com">
-<img src="https://cdn.simpleicons.org/vercel" width="28" />
+<img src="https://cdn.simpleicons.org/vercel" width="30" /><br/>
+Portfolio
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -125,57 +144,37 @@ Processes & efficiency
 
 <table>
 <tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
-</td>
-<td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 1</b><br/>
-Sistema financeiro e gestão
+Sistema financeiro
 </td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
-</td>
-<td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 2</b><br/>
 Controle de estoque
 </td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
-</td>
-<td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 3</b><br/>
 Sistema empresarial
 </td>
 </tr>
 <tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
-</td>
-<td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 4</b><br/>
-Automação de processos
+Automação
 </td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
-</td>
-<td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 5</b><br/>
-Plataforma ecommerce
+Ecommerce
 </td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="50" />
-</td>
-<td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
 <b>Cliente 6</b><br/>
-Sistema logístico
+Logística
 </td>
 </tr>
 </table>
@@ -188,7 +187,7 @@ Sistema logístico
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Views&color=FACC15&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=👁️%20Views&color=FACC15&style=flat" />
 
 <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=flat&color=FACC15" />
 
