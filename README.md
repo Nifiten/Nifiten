@@ -149,37 +149,77 @@ Portfolio
 
 <table>
 <tr>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
+<td>
+<table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td>
 <b>Cliente 1</b><br/>
-Financial System
-</td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
-<b>Cliente 2</b><br/>
-Inventory System
-</td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
-<b>Cliente 3</b><br/>
-Business Platform
+Financial system with reporting and transactions
 </td>
 </tr>
+</table>
+</td>
+<td>
+<table>
 <tr>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
+<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td>
+<b>Cliente 2</b><br/>
+Inventory control and logistics platform
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td>
+<table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td>
+<b>Cliente 3</b><br/>
+Business management system
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td>
 <b>Cliente 4</b><br/>
-Automation
+Automation and workflow optimization
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td>
+<table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td>
 <b>Cliente 5</b><br/>
-Ecommerce
+Ecommerce platform and payment flows
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="70" /><br/>
+</tr>
+</table>
+</td>
+<td>
+<table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
+<td>
 <b>Cliente 6</b><br/>
-Logistics
+Logistics and tracking system
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
