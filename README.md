@@ -147,26 +147,28 @@ Portfolio
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" height="120">
+<td width="50%" height="130">
 <table width="100%">
 <tr>
 <td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td valign="top">
 <b>Cliente 1</b><br/>
-Financial system with reporting and transactions<br/><br/>
+Financial system with reporting and transactions<br/>
+<sub>● Live • High Performance</sub>
 </td>
 </tr>
 </table>
 </td>
-<td width="50%" height="120">
+<td width="50%" height="130">
 <table width="100%">
 <tr>
 <td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td valign="top">
 <b>Cliente 2</b><br/>
-Inventory control and logistics platform<br/><br/>
+Inventory control and logistics platform<br/>
+<sub>● In Production • Stable</sub>
 </td>
 </tr>
 </table>
@@ -174,24 +176,26 @@ Inventory control and logistics platform<br/><br/>
 </tr>
 
 <tr>
-<td width="50%" height="120">
+<td width="50%" height="130">
 <table width="100%">
 <tr>
 <td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td valign="top">
 <b>Cliente 3</b><br/>
-Business management system<br/><br/>
+Business management system<br/>
+<sub>● Live • Active Usage</sub>
 </td>
 </tr>
 </table>
 </td>
-<td width="50%" height="120">
+<td width="50%" height="130">
 <table width="100%">
 <tr>
 <td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td valign="top">
 <b>Cliente 4</b><br/>
-Automation and workflow optimization<br/><br/>
+Automation and workflow optimization<br/>
+<sub>● Running • Optimized</sub>
 </td>
 </tr>
 </table>
@@ -199,24 +203,26 @@ Automation and workflow optimization<br/><br/>
 </tr>
 
 <tr>
-<td width="50%" height="120">
+<td width="50%" height="130">
 <table width="100%">
 <tr>
 <td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td valign="top">
 <b>Cliente 5</b><br/>
-Ecommerce platform and payment flows<br/><br/>
+Ecommerce platform and payment flows<br/>
+<sub>● Live • Transactions</sub>
 </td>
 </tr>
 </table>
 </td>
-<td width="50%" height="120">
+<td width="50%" height="130">
 <table width="100%">
 <tr>
 <td width="70" valign="top"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="60" /></td>
 <td valign="top">
 <b>Cliente 6</b><br/>
-Logistics and tracking system<br/><br/>
+Logistics and tracking system<br/>
+<sub>● Active • Monitoring</sub>
 </td>
 </tr>
 </table>
