@@ -12,6 +12,8 @@
 
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yqnviy6l4d6yixbb7yzygecqei&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yqnviy6l4d6yixbb7yzygecqei&redirect=true)
+
 ---
 
 ## Positioning
