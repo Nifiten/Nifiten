@@ -74,13 +74,33 @@ Tailored solutions
 
 ## Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,php,mysql,docker,git,github,figma&theme=dark" />
+<td width="50%" valign="top">
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,php,mysql,docker,git,github,figma,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,linux,bash&theme=dark" />
+
+</td>
+
+<td width="50%" valign="center" align="center">
+
+### Usage
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=dark&bg_color=0B0B0B&title_color=ffffff&text_color=cccccc" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
----
 
 ## Performance
 
